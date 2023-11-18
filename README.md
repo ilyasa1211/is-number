@@ -4,9 +4,8 @@ Check if your text is all number and can be convert to number type
 ### Usage
 
 ```typescript
-const example1 = isNumber(123); // true
 
-const example2 = isNumber("1323"); // true
+const example1 = isNumber("1323"); // true
 
-const example3 = isNumber("132s3"); // false
+const example2 = isNumber("132s3"); // false
 ```
